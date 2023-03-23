@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+src/cachedir
+src/http_cache
+
+.DS_STORE
+src/.DS_STORE

@@ -1,0 +1,22 @@
+version: "3.5"
+services:
+  641-project:
+    image: msml641-project:latest
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./src:/home/jovyan/work
+    networks:
+      - 641-project
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - capabilities: [gpu]
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+
+networks:
+  641-project:
