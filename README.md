@@ -12,3 +12,4 @@ Potential Data sources:
 
 Modeling Examples:
 - https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce
+- https://www.youtube.com/watch?v=2486auSLTUI&list=PLQVvvaa0QuDdKvPge9PXQtFzvhMRyFPhW&index=5&ab_channel=sentdex
