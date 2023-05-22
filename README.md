@@ -1,4 +1,4 @@
-MSML 641 Term Project 
+Generating speech for a specific persona
 
 
 Potential Data sources:
