@@ -1,4 +1,5 @@
-Generating speech for a specific persona
+Am attempt to train a model to impersonate different persona (like a person that can do impersonations of multiple celebrities)
+This initial model attempts to generate speech that sounds like Donald Trump.
 
 
 Potential Data sources:
